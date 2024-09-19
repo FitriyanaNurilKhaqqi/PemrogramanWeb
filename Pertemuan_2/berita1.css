@@ -1,0 +1,67 @@
+/* Navbar */
+nav {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Berita Container */
+.berita-container {
+    padding: 20px;
+}
+
+.berita {
+    margin-bottom: 20px;
+    text-align: center; /* Center content */
+}
+
+.berita-img {
+    width: 800px;
+    height: 800px;
+    display: block;
+    margin: 0 auto; /* Center the image */
+}
+
+.berita-content h3, .berita-content p {
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #333;
+}
